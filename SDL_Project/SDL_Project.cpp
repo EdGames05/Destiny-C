@@ -1,6 +1,9 @@
 // SDL_Project.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
 
+//*********************************************************************************************
+/************ Si se va a cambiar de 64 a 32 bits también cambiar la .dll  *********************/
+
 #include <iostream>
 #include "AVentana.h"
 
